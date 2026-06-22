@@ -16,7 +16,7 @@ export default function SignInPage() {
             </div>
 
             <h1 className="mt-4 text-3xl font-bold text-white">
-              Welcome Back
+              Welcome Back 
             </h1>
 
             <p className="mt-2 text-zinc-400">
